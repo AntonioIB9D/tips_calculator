@@ -1,4 +1,4 @@
-# tips calculator 📄
+# Tips calculator 💵
 
 Calculadora de propinas ✨
 
