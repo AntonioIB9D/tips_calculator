@@ -34,9 +34,10 @@ npm run dev
 ### La aplicación fue construido mediante 🔧 :
 
 1. React: 18.2.0 🚀
-2. Typescript
-3. TailwindCss: 3.4.1
-4. Vite: 5.2.0
+2. Typescript: 5.2.2
+3. Hooks: (useMemo, useState)
+4. TailwindCss: 3.4.1
+5. Vite: 5.2.0
 
 
 ----
